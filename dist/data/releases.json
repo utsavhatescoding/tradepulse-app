@@ -1,0 +1,24 @@
+{
+  "defaultFiscalYear": "2083/84",
+  "defaultRelease": "Bhadra",
+  "fiscalYears": [
+    {
+      "id": "2083_84",
+      "label": "2083/84",
+      "releases": [
+        {
+          "id": "shrawan",
+          "label": "Shrawan",
+          "order": 1,
+          "path": "data/2083_84/shrawan/summary.json"
+        },
+        {
+          "id": "bhadra",
+          "label": "Bhadra",
+          "order": 2,
+          "path": "data/2083_84/bhadra/summary.json"
+        }
+      ]
+    }
+  ]
+}

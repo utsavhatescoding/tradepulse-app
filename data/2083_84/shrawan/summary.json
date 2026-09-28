@@ -1,0 +1,44 @@
+{
+  "id": "2083_84_shrawan",
+  "fiscalYear": "2083/84",
+  "release": "Shrawan",
+  "releaseOrder": 1,
+  "releaseType": "cumulative",
+  "coverage": "Mid July 2026 to Mid August 2026",
+  "updated": "2026-09-05",
+  "source": {
+    "name": "Department of Customs, Government of Nepal",
+    "url": "https://customs.gov.np/category/summary-of-business-revenue-2083-084/?page=1"
+  },
+  "cumulative": {
+    "imports_b": 187.443622161632,
+    "exports_b": 38.70414561597,
+    "deficit_b": 148.739476545662,
+    "total_trade_b": 226.147767777602,
+    "ratio": 4.842985659,
+    "import_share": 82.885462,
+    "export_share": 17.114538,
+    "yoy": {
+      "imports": 31.042188,
+      "exports": 61.722517,
+      "deficit": 24.877583,
+      "total_trade": 35.439634
+    },
+    "previous": {
+      "imports_b": 143.040668563311,
+      "exports_b": 23.93244080212,
+      "deficit_b": 119.108227761191,
+      "total_trade_b": 166.973109365431
+    }
+  },
+  "monthly": {
+    "imports_b": 187.443622161632,
+    "exports_b": 38.70414561597,
+    "deficit_b": 148.739476545662,
+    "total_trade_b": 226.147767777602,
+    "ratio": 4.842985659,
+    "mom": null
+  },
+  "reportUrl": "https://tradepulsenepal.com/shrawan-2083-84-trade-report.html",
+  "downloadUrl": "https://tradepulsenepal.com/nepal-trade-data-download.html"
+}

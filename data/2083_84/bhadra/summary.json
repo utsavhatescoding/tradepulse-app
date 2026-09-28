@@ -1,0 +1,50 @@
+{
+  "id": "2083_84_bhadra",
+  "fiscalYear": "2083/84",
+  "release": "Bhadra",
+  "releaseOrder": 2,
+  "releaseType": "cumulative",
+  "coverage": "Mid July 2026 to Mid September 2026",
+  "updated": "2026-09-28",
+  "source": {
+    "name": "Department of Customs, Government of Nepal",
+    "url": "https://customs.gov.np/category/summary-of-business-revenue-2083-084/?page=1"
+  },
+  "cumulative": {
+    "imports_b": 401.51898253602803,
+    "exports_b": 76.58753910168,
+    "deficit_b": 324.931443434348,
+    "total_trade_b": 478.106521637708,
+    "ratio": 5.242615,
+    "import_share": 83.981072,
+    "export_share": 16.018928,
+    "yoy": {
+      "imports": 31.578658,
+      "exports": 61.858247,
+      "deficit": 26.021825,
+      "total_trade": 35.643537,
+      "ratio": -18.707474
+    },
+    "previous": {
+      "imports_b": 305.155098590545,
+      "exports_b": 47.31766264681,
+      "deficit_b": 257.837435943735,
+      "total_trade_b": 352.472761237355
+    }
+  },
+  "monthly": {
+    "imports_b": 214.07536037439604,
+    "exports_b": 37.883393485709995,
+    "deficit_b": 176.191966888686,
+    "total_trade_b": 251.958753860106,
+    "ratio": 5.650902431830651,
+    "mom": {
+      "imports": 14.207865760190863,
+      "exports": -2.1205793777329784,
+      "deficit": 18.456761433200477,
+      "total_trade": 11.413327814885621
+    }
+  },
+  "reportUrl": "https://tradepulsenepal.com/bhadra-2083-84-trade-report.html",
+  "downloadUrl": "https://tradepulsenepal.com/nepal-trade-data-download.html"
+}

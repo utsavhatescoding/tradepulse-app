@@ -1,0 +1,965 @@
+[
+  {
+    "country": "India",
+    "imports_b": 102.451381,
+    "exports_b": 33.263602,
+    "balance_b": -69.187778,
+    "import_share_pct": 54.65717095013055,
+    "export_share_pct": 85.94325354717263,
+    "rank": 1
+  },
+  {
+    "country": "China",
+    "imports_b": 31.74616,
+    "exports_b": 0.212627,
+    "balance_b": -31.533533,
+    "import_share_pct": 16.93637779397231,
+    "export_share_pct": 0.5493649236175528,
+    "rank": 2
+  },
+  {
+    "country": "Argentina",
+    "imports_b": 13.852959,
+    "exports_b": 0.011513,
+    "balance_b": -13.841446,
+    "import_share_pct": 7.390466978948284,
+    "export_share_pct": 0.029746167540382385,
+    "rank": 3
+  },
+  {
+    "country": "United States",
+    "imports_b": 3.3462,
+    "exports_b": 2.18638,
+    "balance_b": -1.15982,
+    "import_share_pct": 1.785176770172838,
+    "export_share_pct": 5.648955596885368,
+    "rank": 4
+  },
+  {
+    "country": "Saudi Arabia",
+    "imports_b": 4.987377,
+    "exports_b": 0.00091,
+    "balance_b": -4.986466,
+    "import_share_pct": 2.660734434431385,
+    "export_share_pct": 0.002351169326999737,
+    "rank": 5
+  },
+  {
+    "country": "Russian Federation",
+    "imports_b": 4.131399,
+    "exports_b": 0.004025,
+    "balance_b": -4.127374,
+    "import_share_pct": 2.2040755254065187,
+    "export_share_pct": 0.010399402792498836,
+    "rank": 6
+  },
+  {
+    "country": "Oman",
+    "imports_b": 2.856466,
+    "exports_b": 0.000982,
+    "balance_b": -2.855484,
+    "import_share_pct": 1.5239067443633154,
+    "export_share_pct": 0.002537195911114002,
+    "rank": 7
+  },
+  {
+    "country": "Australia",
+    "imports_b": 2.514941,
+    "exports_b": 0.255818,
+    "balance_b": -2.259123,
+    "import_share_pct": 1.3417052930354574,
+    "export_share_pct": 0.6609576207630975,
+    "rank": 8
+  },
+  {
+    "country": "United Arab Emirates",
+    "imports_b": 1.881453,
+    "exports_b": 0.249175,
+    "balance_b": -1.632278,
+    "import_share_pct": 1.0037434073791156,
+    "export_share_pct": 0.6437940846759994,
+    "rank": 9
+  },
+  {
+    "country": "France",
+    "imports_b": 1.607315,
+    "exports_b": 0.180854,
+    "balance_b": -1.426461,
+    "import_share_pct": 0.8574924990587398,
+    "export_share_pct": 0.4672729422694619,
+    "rank": 10
+  },
+  {
+    "country": "Malaysia",
+    "imports_b": 1.663762,
+    "exports_b": 0.02317,
+    "balance_b": -1.640592,
+    "import_share_pct": 0.8876066204937842,
+    "export_share_pct": 0.059864388248993296,
+    "rank": 11
+  },
+  {
+    "country": "Brazil",
+    "imports_b": 1.591052,
+    "exports_b": 0.00026,
+    "balance_b": -1.590792,
+    "import_share_pct": 0.848816290280627,
+    "export_share_pct": 0.0006717626648570676,
+    "rank": 12
+  },
+  {
+    "country": "Bangladesh",
+    "imports_b": 1.442416,
+    "exports_b": 0.01273,
+    "balance_b": -1.429686,
+    "import_share_pct": 0.7695199139697639,
+    "export_share_pct": 0.03289053355242489,
+    "rank": 13
+  },
+  {
+    "country": "Sudan",
+    "imports_b": 1.413205,
+    "exports_b": 0.0,
+    "balance_b": -1.413205,
+    "import_share_pct": 0.7539360281788613,
+    "export_share_pct": 0.0,
+    "rank": 14
+  },
+  {
+    "country": "Canada",
+    "imports_b": 1.19591,
+    "exports_b": 0.116239,
+    "balance_b": -1.079671,
+    "import_share_pct": 0.6380105048166275,
+    "export_share_pct": 0.30032700153969494,
+    "rank": 15
+  },
+  {
+    "country": "Indonesia",
+    "imports_b": 1.181827,
+    "exports_b": 0.002483,
+    "balance_b": -1.179345,
+    "import_share_pct": 0.6304973124030406,
+    "export_share_pct": 0.006415333449384996,
+    "rank": 16
+  },
+  {
+    "country": "Germany",
+    "imports_b": 0.607576,
+    "exports_b": 0.410496,
+    "balance_b": -0.19708,
+    "import_share_pct": 0.3241379957308386,
+    "export_share_pct": 1.0605995648967959,
+    "rank": 17
+  },
+  {
+    "country": "Thailand",
+    "imports_b": 0.922852,
+    "exports_b": 0.003198,
+    "balance_b": -0.919654,
+    "import_share_pct": 0.49233576974106263,
+    "export_share_pct": 0.008262680777741933,
+    "rank": 18
+  },
+  {
+    "country": "Singapore",
+    "imports_b": 0.86523,
+    "exports_b": 0.008557,
+    "balance_b": -0.856673,
+    "import_share_pct": 0.4615947931554136,
+    "export_share_pct": 0.022108742781468956,
+    "rank": 19
+  },
+  {
+    "country": "United Kingdom",
+    "imports_b": 0.4256,
+    "exports_b": 0.347986,
+    "balance_b": -0.077614,
+    "import_share_pct": 0.22705493795516105,
+    "export_share_pct": 0.8990923180498137,
+    "rank": 20
+  },
+  {
+    "country": "Japan",
+    "imports_b": 0.464451,
+    "exports_b": 0.267729,
+    "balance_b": -0.196722,
+    "import_share_pct": 0.2477817034497474,
+    "export_share_pct": 0.6917321019212226,
+    "rank": 21
+  },
+  {
+    "country": "Viet Nam",
+    "imports_b": 0.668422,
+    "exports_b": 0.007619,
+    "balance_b": -0.660803,
+    "import_share_pct": 0.35659895615099774,
+    "export_share_pct": 0.019685229782869226,
+    "rank": 22
+  },
+  {
+    "country": "Ukraine",
+    "imports_b": 0.582087,
+    "exports_b": 0.0,
+    "balance_b": -0.582087,
+    "import_share_pct": 0.31053977365955315,
+    "export_share_pct": 0.0,
+    "rank": 23
+  },
+  {
+    "country": "Korea, Republic of",
+    "imports_b": 0.533145,
+    "exports_b": 0.037804,
+    "balance_b": -0.495341,
+    "import_share_pct": 0.2844295227822,
+    "export_share_pct": 0.09767429147021763,
+    "rank": 24
+  },
+  {
+    "country": "Qatar",
+    "imports_b": 0.542876,
+    "exports_b": 0.010596,
+    "balance_b": -0.53228,
+    "import_share_pct": 0.28962095041669644,
+    "export_share_pct": 0.02737691229548265,
+    "rank": 25
+  },
+  {
+    "country": "Italy",
+    "imports_b": 0.339343,
+    "exports_b": 0.182196,
+    "balance_b": -0.157147,
+    "import_share_pct": 0.18103736797584166,
+    "export_share_pct": 0.4707402711011473,
+    "rank": 26
+  },
+  {
+    "country": "Not_Specified",
+    "imports_b": 0.344722,
+    "exports_b": 0.0,
+    "balance_b": -0.344722,
+    "import_share_pct": 0.18390703083124768,
+    "export_share_pct": 0.0,
+    "rank": 27
+  },
+  {
+    "country": "Israel",
+    "imports_b": 0.305528,
+    "exports_b": 0.001109,
+    "balance_b": -0.304419,
+    "import_share_pct": 0.16299727698205932,
+    "export_share_pct": 0.002865326135871108,
+    "rank": 28
+  },
+  {
+    "country": "Netherlands",
+    "imports_b": 0.164785,
+    "exports_b": 0.134589,
+    "balance_b": -0.030196,
+    "import_share_pct": 0.08791176680202352,
+    "export_share_pct": 0.34773794346326103,
+    "rank": 29
+  },
+  {
+    "country": "Hong Kong",
+    "imports_b": 0.257033,
+    "exports_b": 0.041905,
+    "balance_b": -0.215128,
+    "import_share_pct": 0.13712549780880853,
+    "export_share_pct": 0.1082700556570593,
+    "rank": 30
+  },
+  {
+    "country": "New Zealand",
+    "imports_b": 0.253482,
+    "exports_b": 0.016211,
+    "balance_b": -0.237271,
+    "import_share_pct": 0.13523106151961964,
+    "export_share_pct": 0.041884402153838166,
+    "rank": 31
+  },
+  {
+    "country": "Turkey",
+    "imports_b": 0.088,
+    "exports_b": 0.145773,
+    "balance_b": 0.057772,
+    "import_share_pct": 0.04694744957719495,
+    "export_share_pct": 0.37663407286234357,
+    "rank": 32
+  },
+  {
+    "country": "Switzerland",
+    "imports_b": 0.177929,
+    "exports_b": 0.043861,
+    "balance_b": -0.134068,
+    "import_share_pct": 0.09492400858887183,
+    "export_share_pct": 0.11332377785883017,
+    "rank": 33
+  },
+  {
+    "country": "Myanmar",
+    "imports_b": 0.19078,
+    "exports_b": 0.0,
+    "balance_b": -0.19078,
+    "import_share_pct": 0.10177993670837787,
+    "export_share_pct": 0.0,
+    "rank": 34
+  },
+  {
+    "country": "Bhutan",
+    "imports_b": 0.109218,
+    "exports_b": 0.06747,
+    "balance_b": -0.041747,
+    "import_share_pct": 0.058267119862750884,
+    "export_share_pct": 0.17432241153040906,
+    "rank": 35
+  },
+  {
+    "country": "Paraguay",
+    "imports_b": 0.173111,
+    "exports_b": 0.0,
+    "balance_b": -0.173111,
+    "import_share_pct": 0.09235363572452039,
+    "export_share_pct": 0.0,
+    "rank": 36
+  },
+  {
+    "country": "Ireland",
+    "imports_b": 0.145577,
+    "exports_b": 0.020663,
+    "balance_b": -0.124914,
+    "import_share_pct": 0.07766441894431034,
+    "export_share_pct": 0.053387045938236885,
+    "rank": 37
+  },
+  {
+    "country": "Poland",
+    "imports_b": 0.128215,
+    "exports_b": 0.015765,
+    "balance_b": -0.11245,
+    "import_share_pct": 0.06840190054022785,
+    "export_share_pct": 0.04073207081335259,
+    "rank": 38
+  },
+  {
+    "country": "Taiwan, Province of China",
+    "imports_b": 0.125301,
+    "exports_b": 0.016705,
+    "balance_b": -0.108595,
+    "import_share_pct": 0.06684729976672846,
+    "export_share_pct": 0.043160751217066605,
+    "rank": 39
+  },
+  {
+    "country": "United Republic of Tanzania",
+    "imports_b": 0.141374,
+    "exports_b": 3.7e-05,
+    "balance_b": -0.141337,
+    "import_share_pct": 0.07542214473325408,
+    "export_share_pct": 9.559699461427501e-05,
+    "rank": 40
+  },
+  {
+    "country": "Denmark",
+    "imports_b": 0.024299,
+    "exports_b": 0.104596,
+    "balance_b": 0.080297,
+    "import_share_pct": 0.012963364514502956,
+    "export_share_pct": 0.27024495266688403,
+    "rank": 41
+  },
+  {
+    "country": "Spain",
+    "imports_b": 0.097237,
+    "exports_b": 0.029633,
+    "balance_b": -0.067604,
+    "import_share_pct": 0.05187533130156484,
+    "export_share_pct": 0.07656285787580572,
+    "rank": 42
+  },
+  {
+    "country": "Austria",
+    "imports_b": 0.046882,
+    "exports_b": 0.063099,
+    "balance_b": 0.016217,
+    "import_share_pct": 0.02501125376225061,
+    "export_share_pct": 0.1630290476531389,
+    "rank": 43
+  },
+  {
+    "country": "Czech Republic",
+    "imports_b": 0.061851,
+    "exports_b": 0.037631,
+    "balance_b": -0.02422,
+    "import_share_pct": 0.03299712163408051,
+    "export_share_pct": 0.09722731092783198,
+    "rank": 44
+  },
+  {
+    "country": "Mexico",
+    "imports_b": 0.081395,
+    "exports_b": 0.010157,
+    "balance_b": -0.071237,
+    "import_share_pct": 0.04342372339017935,
+    "export_share_pct": 0.026242666872897058,
+    "rank": 45
+  },
+  {
+    "country": "Egypt",
+    "imports_b": 0.074902,
+    "exports_b": 0.0,
+    "balance_b": -0.074902,
+    "import_share_pct": 0.03995974850262564,
+    "export_share_pct": 0.0,
+    "rank": 46
+  },
+  {
+    "country": "Bulgaria",
+    "imports_b": 0.069793,
+    "exports_b": 0.000654,
+    "balance_b": -0.069139,
+    "import_share_pct": 0.037234128958422354,
+    "export_share_pct": 0.0016897414723712394,
+    "rank": 47
+  },
+  {
+    "country": "Belgium",
+    "imports_b": 0.040751,
+    "exports_b": 0.027182,
+    "balance_b": -0.013569,
+    "import_share_pct": 0.02174040361045763,
+    "export_share_pct": 0.07023020290824929,
+    "rank": 48
+  },
+  {
+    "country": "Sweden",
+    "imports_b": 0.031255,
+    "exports_b": 0.036056,
+    "balance_b": 0.0048,
+    "import_share_pct": 0.016674347006082137,
+    "export_share_pct": 0.09315797940033242,
+    "rank": 49
+  },
+  {
+    "country": "Philippines",
+    "imports_b": 0.065446,
+    "exports_b": 0.000858,
+    "balance_b": -0.064588,
+    "import_share_pct": 0.03491503164805797,
+    "export_share_pct": 0.0022168167940283235,
+    "rank": 50
+  },
+  {
+    "country": "Lithuania",
+    "imports_b": 0.058142,
+    "exports_b": 0.00028,
+    "balance_b": -0.057862,
+    "import_share_pct": 0.03101839333315078,
+    "export_share_pct": 0.0007234367159999189,
+    "rank": 51
+  },
+  {
+    "country": "South Africa",
+    "imports_b": 0.037145,
+    "exports_b": 0.004192,
+    "balance_b": -0.032953,
+    "import_share_pct": 0.019816625165283028,
+    "export_share_pct": 0.010830881119541646,
+    "rank": 52
+  },
+  {
+    "country": "Pakistan",
+    "imports_b": 0.034101,
+    "exports_b": 0.006049,
+    "balance_b": -0.028051,
+    "import_share_pct": 0.01819267020490824,
+    "export_share_pct": 0.015628816768155394,
+    "rank": 53
+  },
+  {
+    "country": "Chile",
+    "imports_b": 0.033329,
+    "exports_b": 0.003923,
+    "balance_b": -0.029406,
+    "import_share_pct": 0.01778081303361739,
+    "export_share_pct": 0.010135865131670295,
+    "rank": 54
+  },
+  {
+    "country": "Greece",
+    "imports_b": 0.033313,
+    "exports_b": 0.001752,
+    "balance_b": -0.031561,
+    "import_share_pct": 0.017772277133694267,
+    "export_share_pct": 0.004526646880113779,
+    "rank": 55
+  },
+  {
+    "country": "Sri Lanka",
+    "imports_b": 0.034727,
+    "exports_b": 2e-05,
+    "balance_b": -0.034707,
+    "import_share_pct": 0.018526637289400558,
+    "export_share_pct": 5.167405114285136e-05,
+    "rank": 56
+  },
+  {
+    "country": "Hungary",
+    "imports_b": 0.025699,
+    "exports_b": 0.001576,
+    "balance_b": -0.024123,
+    "import_share_pct": 0.013710255757776511,
+    "export_share_pct": 0.004071915230056687,
+    "rank": 57
+  },
+  {
+    "country": "Norway",
+    "imports_b": 0.005823,
+    "exports_b": 0.018228,
+    "balance_b": 0.012405,
+    "import_share_pct": 0.003106534078272798,
+    "export_share_pct": 0.04709573021159473,
+    "rank": 58
+  },
+  {
+    "country": "Madagascar",
+    "imports_b": 0.023697,
+    "exports_b": 0.0,
+    "balance_b": -0.023697,
+    "import_share_pct": 0.012642201279895324,
+    "export_share_pct": 0.0,
+    "rank": 59
+  },
+  {
+    "country": "Kuwait",
+    "imports_b": 0.012901,
+    "exports_b": 0.009554,
+    "balance_b": -0.003347,
+    "import_share_pct": 0.006882602806765819,
+    "export_share_pct": 0.024684694230940097,
+    "rank": 60
+  },
+  {
+    "country": "Afghanistan",
+    "imports_b": 0.019496,
+    "exports_b": 0.0,
+    "balance_b": -0.019496,
+    "import_share_pct": 0.010400994056329464,
+    "export_share_pct": 0.0,
+    "rank": 61
+  },
+  {
+    "country": "Finland",
+    "imports_b": 0.006749,
+    "exports_b": 0.007904,
+    "balance_b": 0.001155,
+    "import_share_pct": 0.0036005492863237358,
+    "export_share_pct": 0.020421585011654857,
+    "rank": 62
+  },
+  {
+    "country": "Dominican Republic",
+    "imports_b": 0.013072,
+    "exports_b": 0.0,
+    "balance_b": -0.013072,
+    "import_share_pct": 0.006973830237194232,
+    "export_share_pct": 0.0,
+    "rank": 63
+  },
+  {
+    "country": "Kenya",
+    "imports_b": 2e-06,
+    "exports_b": 0.011433,
+    "balance_b": 0.011431,
+    "import_share_pct": 1.0669874903907942e-06,
+    "export_share_pct": 0.02953947133581098,
+    "rank": 64
+  },
+  {
+    "country": "Romania",
+    "imports_b": 0.009798,
+    "exports_b": 0.000317,
+    "balance_b": -0.00948,
+    "import_share_pct": 0.005227171715424502,
+    "export_share_pct": 0.000819033710614194,
+    "rank": 65
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "imports_b": 0.009292,
+    "exports_b": 0.0,
+    "balance_b": -0.009292,
+    "import_share_pct": 0.00495722388035563,
+    "export_share_pct": 0.0,
+    "rank": 66
+  },
+  {
+    "country": "Slovenia",
+    "imports_b": 0.008694,
+    "exports_b": 0.0,
+    "balance_b": -0.008694,
+    "import_share_pct": 0.004638194620728783,
+    "export_share_pct": 0.0,
+    "rank": 67
+  },
+  {
+    "country": "Iceland",
+    "imports_b": 0.000206,
+    "exports_b": 0.008447,
+    "balance_b": 0.00824,
+    "import_share_pct": 0.00010989971151025181,
+    "export_share_pct": 0.021824535500183272,
+    "rank": 68
+  },
+  {
+    "country": "Costa Rica",
+    "imports_b": 0.007405,
+    "exports_b": 0.001049,
+    "balance_b": -0.006357,
+    "import_share_pct": 0.003950521183171916,
+    "export_share_pct": 0.002710303982442554,
+    "rank": 69
+  },
+  {
+    "country": "Portugal",
+    "imports_b": 0.006929,
+    "exports_b": 0.000368,
+    "balance_b": -0.006561,
+    "import_share_pct": 0.0036965781604589073,
+    "export_share_pct": 0.0009508025410284649,
+    "rank": 70
+  },
+  {
+    "country": "Uganda",
+    "imports_b": 0.005767,
+    "exports_b": 0.0,
+    "balance_b": -0.005767,
+    "import_share_pct": 0.0030766584285418556,
+    "export_share_pct": 0.0,
+    "rank": 71
+  },
+  {
+    "country": "Gabon",
+    "imports_b": 0.005632,
+    "exports_b": 0.0,
+    "balance_b": -0.005632,
+    "import_share_pct": 0.0030046367729404766,
+    "export_share_pct": 0.0,
+    "rank": 72
+  },
+  {
+    "country": "Latvia",
+    "imports_b": 0.003249,
+    "exports_b": 0.002134,
+    "balance_b": -0.001115,
+    "import_share_pct": 0.0017333211781398452,
+    "export_share_pct": 0.00551362125694224,
+    "rank": 73
+  },
+  {
+    "country": "Cambodia",
+    "imports_b": 0.004434,
+    "exports_b": 0.000355,
+    "balance_b": -0.00408,
+    "import_share_pct": 0.0023655112661963907,
+    "export_share_pct": 0.0009172144077856116,
+    "rank": 74
+  },
+  {
+    "country": "Slovakia",
+    "imports_b": 0.000535,
+    "exports_b": 0.004245,
+    "balance_b": 0.00371,
+    "import_share_pct": 0.0002854191536795375,
+    "export_share_pct": 0.0109678173550702,
+    "rank": 75
+  },
+  {
+    "country": "Swaziland",
+    "imports_b": 0.004369,
+    "exports_b": 0.0,
+    "balance_b": -0.004369,
+    "import_share_pct": 0.00233083417275869,
+    "export_share_pct": 0.0,
+    "rank": 76
+  },
+  {
+    "country": "Jordan",
+    "imports_b": 0.004357,
+    "exports_b": 0.0,
+    "balance_b": -0.004357,
+    "import_share_pct": 0.002324432247816345,
+    "export_share_pct": 0.0,
+    "rank": 77
+  },
+  {
+    "country": "Cyprus",
+    "imports_b": 0.003991,
+    "exports_b": 3.5e-05,
+    "balance_b": -0.003956,
+    "import_share_pct": 0.00212917353707483,
+    "export_share_pct": 9.042958949998986e-05,
+    "rank": 78
+  },
+  {
+    "country": "Peru",
+    "imports_b": 0.003982,
+    "exports_b": 0.0,
+    "balance_b": -0.003982,
+    "import_share_pct": 0.0021243720933680718,
+    "export_share_pct": 0.0,
+    "rank": 79
+  },
+  {
+    "country": "Mongolia",
+    "imports_b": 0.0,
+    "exports_b": 0.003003,
+    "balance_b": 0.003003,
+    "import_share_pct": 0.0,
+    "export_share_pct": 0.007758858779099131,
+    "rank": 80
+  },
+  {
+    "country": "Estonia",
+    "imports_b": 0.002184,
+    "exports_b": 0.000731,
+    "balance_b": -0.001453,
+    "import_share_pct": 0.0011651503395067474,
+    "export_share_pct": 0.001888686569271217,
+    "rank": 81
+  },
+  {
+    "country": "Lebanon",
+    "imports_b": 0.000282,
+    "exports_b": 0.001842,
+    "balance_b": 0.001561,
+    "import_share_pct": 0.000150445236145102,
+    "export_share_pct": 0.00475918011025661,
+    "rank": 82
+  },
+  {
+    "country": "Morocco",
+    "imports_b": 0.001356,
+    "exports_b": 0.000558,
+    "balance_b": -0.000798,
+    "import_share_pct": 0.0007234175184849586,
+    "export_share_pct": 0.001441706026885553,
+    "rank": 83
+  },
+  {
+    "country": "Bahrain",
+    "imports_b": 0.001854,
+    "exports_b": 0.0,
+    "balance_b": -0.001854,
+    "import_share_pct": 0.0009890974035922664,
+    "export_share_pct": 0.0,
+    "rank": 84
+  },
+  {
+    "country": "Republic of Moldova",
+    "imports_b": 0.001631,
+    "exports_b": 0.0,
+    "balance_b": -0.001631,
+    "import_share_pct": 0.0008701282984136929,
+    "export_share_pct": 0.0,
+    "rank": 85
+  },
+  {
+    "country": "Georgia",
+    "imports_b": 7.9e-05,
+    "exports_b": 0.001267,
+    "balance_b": 0.001189,
+    "import_share_pct": 4.214600587043638e-05,
+    "export_share_pct": 0.0032735511398996335,
+    "rank": 86
+  },
+  {
+    "country": "Suriname",
+    "imports_b": 0.001321,
+    "exports_b": 0.0,
+    "balance_b": -0.001321,
+    "import_share_pct": 0.0007047452374031196,
+    "export_share_pct": 0.0,
+    "rank": 87
+  },
+  {
+    "country": "El Salvador",
+    "imports_b": 0.0,
+    "exports_b": 0.000864,
+    "balance_b": 0.000864,
+    "import_share_pct": 0.0,
+    "export_share_pct": 0.0022323190093711787,
+    "rank": 88
+  },
+  {
+    "country": "Kazakstan",
+    "imports_b": 4.4e-05,
+    "exports_b": 0.000766,
+    "balance_b": 0.000722,
+    "import_share_pct": 2.3473724788597473e-05,
+    "export_share_pct": 0.001979116158771207,
+    "rank": 89
+  },
+  {
+    "country": "Iran, Islamic Republic of",
+    "imports_b": 0.000756,
+    "exports_b": 0.0,
+    "balance_b": -0.000756,
+    "import_share_pct": 0.00040332127136772023,
+    "export_share_pct": 0.0,
+    "rank": 90
+  },
+  {
+    "country": "Fiji",
+    "imports_b": 0.0,
+    "exports_b": 0.000749,
+    "balance_b": 0.000749,
+    "import_share_pct": 0.0,
+    "export_share_pct": 0.0019351932152997834,
+    "rank": 91
+  },
+  {
+    "country": "Brunei Darussalam",
+    "imports_b": 0.000357,
+    "exports_b": 0.000284,
+    "balance_b": -7.3e-05,
+    "import_share_pct": 0.00019045726703475677,
+    "export_share_pct": 0.0007337715262284893,
+    "rank": 92
+  },
+  {
+    "country": "Croatia",
+    "imports_b": 0.000517,
+    "exports_b": 0.0,
+    "balance_b": -0.000517,
+    "import_share_pct": 0.0002758162662660203,
+    "export_share_pct": 0.0,
+    "rank": 93
+  },
+  {
+    "country": "Luxembourg",
+    "imports_b": 0.000455,
+    "exports_b": 0.0,
+    "balance_b": -0.000455,
+    "import_share_pct": 0.00024273965406390572,
+    "export_share_pct": 0.0,
+    "rank": 94
+  },
+  {
+    "country": "Serbia",
+    "imports_b": 0.000416,
+    "exports_b": 0.0,
+    "balance_b": -0.000416,
+    "import_share_pct": 0.0002219333980012852,
+    "export_share_pct": 0.0,
+    "rank": 95
+  },
+  {
+    "country": "Maldives",
+    "imports_b": 3.5e-05,
+    "exports_b": 0.000373,
+    "balance_b": 0.000339,
+    "import_share_pct": 1.86722810818389e-05,
+    "export_share_pct": 0.0009637210538141779,
+    "rank": 96
+  },
+  {
+    "country": "Liechtenstein",
+    "imports_b": 0.0,
+    "exports_b": 0.000334,
+    "balance_b": 0.000334,
+    "import_share_pct": 0.0,
+    "export_share_pct": 0.0008629566540856176,
+    "rank": 97
+  },
+  {
+    "country": "Colombia",
+    "imports_b": 9.3e-05,
+    "exports_b": 0.000207,
+    "balance_b": 0.000114,
+    "import_share_pct": 4.961491830317194e-05,
+    "export_share_pct": 0.0005348264293285115,
+    "rank": 98
+  },
+  {
+    "country": "Iraq",
+    "imports_b": 0.000243,
+    "exports_b": 0.0,
+    "balance_b": -0.000243,
+    "import_share_pct": 0.00012963898008248152,
+    "export_share_pct": 0.0,
+    "rank": 99
+  },
+  {
+    "country": "Mauritius",
+    "imports_b": 0.000226,
+    "exports_b": 0.0,
+    "balance_b": -0.000226,
+    "import_share_pct": 0.00012056958641415976,
+    "export_share_pct": 0.0,
+    "rank": 100
+  },
+  {
+    "country": "Namibia",
+    "imports_b": 2.4e-05,
+    "exports_b": 0.000183,
+    "balance_b": 0.000159,
+    "import_share_pct": 1.2803849884689533e-05,
+    "export_share_pct": 0.00047281756795708994,
+    "rank": 101
+  },
+  {
+    "country": "Malta",
+    "imports_b": 0.00019,
+    "exports_b": 0.0,
+    "balance_b": -0.00019,
+    "import_share_pct": 0.00010136381158712546,
+    "export_share_pct": 0.0,
+    "rank": 102
+  },
+  {
+    "country": "Papua New Guinea",
+    "imports_b": 0.000164,
+    "exports_b": 0.0,
+    "balance_b": -0.000164,
+    "import_share_pct": 8.749297421204514e-05,
+    "export_share_pct": 0.0,
+    "rank": 103
+  },
+  {
+    "country": "Other Countries:(Countries With Less Than Rs.100 Thousand Trade)",
+    "imports_b": 0.000149,
+    "exports_b": 1.5e-05,
+    "balance_b": -0.000134,
+    "import_share_pct": 7.949056803411417e-05,
+    "export_share_pct": 3.875553835713852e-05,
+    "rank": 104
+  },
+  {
+    "country": "Sierra Leone",
+    "imports_b": 3.5e-05,
+    "exports_b": 8.3e-05,
+    "balance_b": 4.8e-05,
+    "import_share_pct": 1.86722810818389e-05,
+    "export_share_pct": 0.00021444731224283314,
+    "rank": 105
+  },
+  {
+    "country": "Solomon Islands",
+    "imports_b": 0.0,
+    "exports_b": 0.000118,
+    "balance_b": 0.000118,
+    "import_share_pct": 0.0,
+    "export_share_pct": 0.00030487690174282303,
+    "rank": 106
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "imports_b": 0.000104,
+    "exports_b": 0.0,
+    "balance_b": -0.000104,
+    "import_share_pct": 5.54833495003213e-05,
+    "export_share_pct": 0.0,
+    "rank": 107
+  }
+]

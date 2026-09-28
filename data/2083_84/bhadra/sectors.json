@@ -1,0 +1,866 @@
+[
+  {
+    "chapter": "15",
+    "name": "Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes",
+    "imports_b": 48.571086,
+    "exports_b": 41.284138,
+    "balance_b": -7.286947,
+    "revenue_000": 2606225.52,
+    "rank": 1
+  },
+  {
+    "chapter": "27",
+    "name": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+    "imports_b": 73.972241,
+    "exports_b": 0.012912,
+    "balance_b": -73.95933,
+    "revenue_000": 18500939.138,
+    "rank": 2
+  },
+  {
+    "chapter": "87",
+    "name": "Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",
+    "imports_b": 29.287579,
+    "exports_b": 1.5e-05,
+    "balance_b": -29.287564,
+    "revenue_000": 20910835.222,
+    "rank": 3
+  },
+  {
+    "chapter": "72",
+    "name": "Iron and steel",
+    "imports_b": 23.46378,
+    "exports_b": 1.933709,
+    "balance_b": -21.530072,
+    "revenue_000": 3589489.596,
+    "rank": 4
+  },
+  {
+    "chapter": "31",
+    "name": "Fertilizers",
+    "imports_b": 24.918215,
+    "exports_b": 0.0,
+    "balance_b": -24.918215,
+    "revenue_000": 16253.548,
+    "rank": 5
+  },
+  {
+    "chapter": "84",
+    "name": "boilers, machinery and mechanical appliances; parts thereof",
+    "imports_b": 24.713723,
+    "exports_b": 0.038853,
+    "balance_b": -24.674869,
+    "revenue_000": 4134518.329,
+    "rank": 6
+  },
+  {
+    "chapter": "85",
+    "name": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",
+    "imports_b": 22.892688,
+    "exports_b": 0.045642,
+    "balance_b": -22.847045,
+    "revenue_000": 4566114.271,
+    "rank": 7
+  },
+  {
+    "chapter": "39",
+    "name": "Plastics and articles thereof",
+    "imports_b": 13.670609,
+    "exports_b": 0.284161,
+    "balance_b": -13.386449,
+    "revenue_000": 3772282.416,
+    "rank": 8
+  },
+  {
+    "chapter": "12",
+    "name": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",
+    "imports_b": 8.859584,
+    "exports_b": 0.310967,
+    "balance_b": -8.548617,
+    "revenue_000": 1109544.928,
+    "rank": 9
+  },
+  {
+    "chapter": "62",
+    "name": "Apparel and clothing accessories; not knitted or crocheted",
+    "imports_b": 6.517981,
+    "exports_b": 1.854387,
+    "balance_b": -4.663595,
+    "revenue_000": 2196941.924,
+    "rank": 10
+  },
+  {
+    "chapter": "07",
+    "name": "Vegetables and certain roots and tubers; edible",
+    "imports_b": 7.932509,
+    "exports_b": 0.21335,
+    "balance_b": -7.719159,
+    "revenue_000": 870712.396,
+    "rank": 11
+  },
+  {
+    "chapter": "55",
+    "name": "Man-made staple fibres",
+    "imports_b": 4.559335,
+    "exports_b": 3.462081,
+    "balance_b": -1.097253,
+    "revenue_000": 562661.132,
+    "rank": 12
+  },
+  {
+    "chapter": "30",
+    "name": "Pharmaceutical products",
+    "imports_b": 7.421578,
+    "exports_b": 0.362863,
+    "balance_b": -7.058715,
+    "revenue_000": 373940.576,
+    "rank": 13
+  },
+  {
+    "chapter": "23",
+    "name": "Food industries, residues and wastes thereof; prepared animal fodder",
+    "imports_b": 4.994474,
+    "exports_b": 2.424959,
+    "balance_b": -2.569514,
+    "revenue_000": 349655.326,
+    "rank": 14
+  },
+  {
+    "chapter": "76",
+    "name": "Aluminium and articles thereof",
+    "imports_b": 5.603997,
+    "exports_b": 0.953205,
+    "balance_b": -4.650792,
+    "revenue_000": 694360.414,
+    "rank": 15
+  },
+  {
+    "chapter": "10",
+    "name": "Cereals",
+    "imports_b": 6.035347,
+    "exports_b": 0.000546,
+    "balance_b": -6.034801,
+    "revenue_000": 415748.881,
+    "rank": 16
+  },
+  {
+    "chapter": "73",
+    "name": "Iron or steel articles",
+    "imports_b": 4.48402,
+    "exports_b": 1.445028,
+    "balance_b": -3.038992,
+    "revenue_000": 857115.0949,
+    "rank": 17
+  },
+  {
+    "chapter": "08",
+    "name": "Fruit and nuts, edible; peel of citrus fruit or melons",
+    "imports_b": 5.595198,
+    "exports_b": 0.0029,
+    "balance_b": -5.592299,
+    "revenue_000": 1288049.102,
+    "rank": 18
+  },
+  {
+    "chapter": "09",
+    "name": "Coffee, tea, mate and spices",
+    "imports_b": 2.03454,
+    "exports_b": 3.042,
+    "balance_b": 1.007461,
+    "revenue_000": 542048.607,
+    "rank": 19
+  },
+  {
+    "chapter": "38",
+    "name": "Chemical products n.e.c.",
+    "imports_b": 3.705331,
+    "exports_b": 0.906798,
+    "balance_b": -2.798533,
+    "revenue_000": 618906.705,
+    "rank": 20
+  },
+  {
+    "chapter": "90",
+    "name": "Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",
+    "imports_b": 4.068621,
+    "exports_b": 0.034108,
+    "balance_b": -4.034513,
+    "revenue_000": 683059.385,
+    "rank": 21
+  },
+  {
+    "chapter": "53",
+    "name": "Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",
+    "imports_b": 1.529341,
+    "exports_b": 2.439748,
+    "balance_b": 0.910407,
+    "revenue_000": 5159.741,
+    "rank": 22
+  },
+  {
+    "chapter": "33",
+    "name": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "imports_b": 3.655053,
+    "exports_b": 0.267516,
+    "balance_b": -3.387537,
+    "revenue_000": 1681810.314,
+    "rank": 23
+  },
+  {
+    "chapter": "21",
+    "name": "Miscellaneous edible preparations",
+    "imports_b": 3.623727,
+    "exports_b": 0.29485,
+    "balance_b": -3.328877,
+    "revenue_000": 1553100.63,
+    "rank": 24
+  },
+  {
+    "chapter": "61",
+    "name": "Apparel and clothing accessories; knitted or crocheted",
+    "imports_b": 2.614082,
+    "exports_b": 1.263551,
+    "balance_b": -1.350531,
+    "revenue_000": 938901.809,
+    "rank": 25
+  },
+  {
+    "chapter": "74",
+    "name": "Copper and articles thereof",
+    "imports_b": 3.330026,
+    "exports_b": 0.319712,
+    "balance_b": -3.010315,
+    "revenue_000": 631512.818,
+    "rank": 26
+  },
+  {
+    "chapter": "40",
+    "name": "Rubber and articles thereof",
+    "imports_b": 3.209741,
+    "exports_b": 0.033236,
+    "balance_b": -3.176505,
+    "revenue_000": 972814.208,
+    "rank": 27
+  },
+  {
+    "chapter": "71",
+    "name": "Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
+    "imports_b": 3.118577,
+    "exports_b": 0.103888,
+    "balance_b": -3.014688,
+    "revenue_000": 605707.283,
+    "rank": 28
+  },
+  {
+    "chapter": "29",
+    "name": "Organic chemicals",
+    "imports_b": 2.966637,
+    "exports_b": 0.009828,
+    "balance_b": -2.956809,
+    "revenue_000": 349696.077,
+    "rank": 29
+  },
+  {
+    "chapter": "44",
+    "name": "Wood and articles of wood; wood charcoal",
+    "imports_b": 0.899295,
+    "exports_b": 1.925963,
+    "balance_b": 1.026668,
+    "revenue_000": 264844.769,
+    "rank": 30
+  },
+  {
+    "chapter": "32",
+    "name": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",
+    "imports_b": 2.710134,
+    "exports_b": 0.086688,
+    "balance_b": -2.623446,
+    "revenue_000": 883259.22,
+    "rank": 31
+  },
+  {
+    "chapter": "48",
+    "name": "Paper and paperboard; articles of paper pulp, of paper or paperboard",
+    "imports_b": 2.521228,
+    "exports_b": 0.260334,
+    "balance_b": -2.260894,
+    "revenue_000": 701847.84,
+    "rank": 32
+  },
+  {
+    "chapter": "19",
+    "name": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+    "imports_b": 1.352815,
+    "exports_b": 1.272899,
+    "balance_b": -0.079915,
+    "revenue_000": 754296.787,
+    "rank": 33
+  },
+  {
+    "chapter": "25",
+    "name": "Salt; sulphur; earths, stone; plastering materials, lime and cement",
+    "imports_b": 2.133659,
+    "exports_b": 0.444545,
+    "balance_b": -1.689114,
+    "revenue_000": 444514.131,
+    "rank": 34
+  },
+  {
+    "chapter": "64",
+    "name": "Footwear; gaiters and the like; parts of such articles",
+    "imports_b": 2.002517,
+    "exports_b": 0.539629,
+    "balance_b": -1.462888,
+    "revenue_000": 883415.359,
+    "rank": 35
+  },
+  {
+    "chapter": "60",
+    "name": "Fabrics; knitted or crocheted",
+    "imports_b": 2.265205,
+    "exports_b": 0.0,
+    "balance_b": -2.265205,
+    "revenue_000": 670460.302,
+    "rank": 36
+  },
+  {
+    "chapter": "88",
+    "name": "Aircraft, spacecraft and parts thereof",
+    "imports_b": 2.20764,
+    "exports_b": 0.030401,
+    "balance_b": -2.177239,
+    "revenue_000": 329484.037,
+    "rank": 37
+  },
+  {
+    "chapter": "57",
+    "name": "Carpets and other textile floor coverings",
+    "imports_b": 0.100378,
+    "exports_b": 1.997515,
+    "balance_b": 1.897137,
+    "revenue_000": 47248.033,
+    "rank": 38
+  },
+  {
+    "chapter": "70",
+    "name": "Glass and glassware",
+    "imports_b": 1.880453,
+    "exports_b": 0.19881,
+    "balance_b": -1.681643,
+    "revenue_000": 693945.466,
+    "rank": 39
+  },
+  {
+    "chapter": "56",
+    "name": "Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",
+    "imports_b": 0.485945,
+    "exports_b": 1.490126,
+    "balance_b": 1.004182,
+    "revenue_000": 71224.761,
+    "rank": 40
+  },
+  {
+    "chapter": "20",
+    "name": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "imports_b": 0.502477,
+    "exports_b": 1.357475,
+    "balance_b": 0.854998,
+    "revenue_000": 251973.922,
+    "rank": 41
+  },
+  {
+    "chapter": "94",
+    "name": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+    "imports_b": 1.785668,
+    "exports_b": 0.042654,
+    "balance_b": -1.743014,
+    "revenue_000": 620626.547,
+    "rank": 42
+  },
+  {
+    "chapter": "52",
+    "name": "Cotton",
+    "imports_b": 1.820619,
+    "exports_b": 0.004018,
+    "balance_b": -1.816601,
+    "revenue_000": 398762.777,
+    "rank": 43
+  },
+  {
+    "chapter": "34",
+    "name": "Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",
+    "imports_b": 1.771871,
+    "exports_b": 0.000844,
+    "balance_b": -1.771026,
+    "revenue_000": 778820.401,
+    "rank": 44
+  },
+  {
+    "chapter": "54",
+    "name": "Man-made filaments; strip and the like of man-made textile materials",
+    "imports_b": 0.926139,
+    "exports_b": 0.797364,
+    "balance_b": -0.128776,
+    "revenue_000": 191656.886,
+    "rank": 45
+  },
+  {
+    "chapter": "96",
+    "name": "Miscellaneous manufactured articles",
+    "imports_b": 1.38234,
+    "exports_b": 0.09056,
+    "balance_b": -1.29178,
+    "revenue_000": 389337.492,
+    "rank": 46
+  },
+  {
+    "chapter": "82",
+    "name": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",
+    "imports_b": 1.094863,
+    "exports_b": 0.29782,
+    "balance_b": -0.797043,
+    "revenue_000": 275607.464,
+    "rank": 47
+  },
+  {
+    "chapter": "83",
+    "name": "Metal; miscellaneous products of base metal",
+    "imports_b": 1.297706,
+    "exports_b": 0.065982,
+    "balance_b": -1.231724,
+    "revenue_000": 382315.506,
+    "rank": 48
+  },
+  {
+    "chapter": "28",
+    "name": "Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",
+    "imports_b": 1.131851,
+    "exports_b": 4e-06,
+    "balance_b": -1.131847,
+    "revenue_000": 189437.728,
+    "rank": 49
+  },
+  {
+    "chapter": "51",
+    "name": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric",
+    "imports_b": 1.093184,
+    "exports_b": 0.002331,
+    "balance_b": -1.090853,
+    "revenue_000": 100558.769,
+    "rank": 50
+  },
+  {
+    "chapter": "17",
+    "name": "Sugars and sugar confectionery",
+    "imports_b": 0.923507,
+    "exports_b": 0.164983,
+    "balance_b": -0.758524,
+    "revenue_000": 321564.71,
+    "rank": 51
+  },
+  {
+    "chapter": "63",
+    "name": "Textiles, made up articles; sets; worn clothing and worn textile articles; rags",
+    "imports_b": 0.740679,
+    "exports_b": 0.326402,
+    "balance_b": -0.414277,
+    "revenue_000": 149975.301,
+    "rank": 52
+  },
+  {
+    "chapter": "69",
+    "name": "Ceramic products",
+    "imports_b": 1.035001,
+    "exports_b": 0.020391,
+    "balance_b": -1.014611,
+    "revenue_000": 444053.637,
+    "rank": 53
+  },
+  {
+    "chapter": "95",
+    "name": "Toys, games and sports requisites; parts and accessories thereof",
+    "imports_b": 0.757306,
+    "exports_b": 0.156845,
+    "balance_b": -0.600461,
+    "revenue_000": 251124.091,
+    "rank": 54
+  },
+  {
+    "chapter": "79",
+    "name": "Zinc and articles thereof",
+    "imports_b": 0.845983,
+    "exports_b": 0.011586,
+    "balance_b": -0.834397,
+    "revenue_000": 95241.381,
+    "rank": 55
+  },
+  {
+    "chapter": "68",
+    "name": "Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",
+    "imports_b": 0.824135,
+    "exports_b": 0.020281,
+    "balance_b": -0.803853,
+    "revenue_000": 290637.307,
+    "rank": 56
+  },
+  {
+    "chapter": "24",
+    "name": "Tobacco and manufactured tobacco substitutes",
+    "imports_b": 0.769587,
+    "exports_b": 0.012558,
+    "balance_b": -0.757029,
+    "revenue_000": 789942.227,
+    "rank": 57
+  },
+  {
+    "chapter": "35",
+    "name": "Albuminoidal substances; modified starches; glues; enzymes",
+    "imports_b": 0.763419,
+    "exports_b": 0.003092,
+    "balance_b": -0.760327,
+    "revenue_000": 194252.54,
+    "rank": 58
+  },
+  {
+    "chapter": "11",
+    "name": "Products of the milling industry; malt, starches, inulin, wheat gluten",
+    "imports_b": 0.609858,
+    "exports_b": 0.043374,
+    "balance_b": -0.566484,
+    "revenue_000": 158883.968,
+    "rank": 59
+  },
+  {
+    "chapter": "14",
+    "name": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+    "imports_b": 0.025304,
+    "exports_b": 0.61168,
+    "balance_b": 0.586375,
+    "revenue_000": 6626.104,
+    "rank": 60
+  },
+  {
+    "chapter": "22",
+    "name": "Beverages, spirits and vinegar",
+    "imports_b": 0.540679,
+    "exports_b": 0.04398,
+    "balance_b": -0.496698,
+    "revenue_000": 911525.686,
+    "rank": 61
+  },
+  {
+    "chapter": "59",
+    "name": "Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",
+    "imports_b": 0.562436,
+    "exports_b": 0.005253,
+    "balance_b": -0.557183,
+    "revenue_000": 164599.43,
+    "rank": 62
+  },
+  {
+    "chapter": "26",
+    "name": "Ores, slag and ash",
+    "imports_b": 0.419154,
+    "exports_b": 0.137383,
+    "balance_b": -0.281771,
+    "revenue_000": 181487.711,
+    "rank": 63
+  },
+  {
+    "chapter": "49",
+    "name": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "imports_b": 0.530625,
+    "exports_b": 0.004263,
+    "balance_b": -0.526362,
+    "revenue_000": 69668.515,
+    "rank": 64
+  },
+  {
+    "chapter": "42",
+    "name": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",
+    "imports_b": 0.411845,
+    "exports_b": 0.05475,
+    "balance_b": -0.357094,
+    "revenue_000": 190393.652,
+    "rank": 65
+  },
+  {
+    "chapter": "18",
+    "name": "Cocoa and cocoa preparations",
+    "imports_b": 0.41751,
+    "exports_b": 0.001036,
+    "balance_b": -0.416474,
+    "revenue_000": 309195.433,
+    "rank": 66
+  },
+  {
+    "chapter": "91",
+    "name": "Clocks and watches and parts thereof",
+    "imports_b": 0.352409,
+    "exports_b": 1.5e-05,
+    "balance_b": -0.352394,
+    "revenue_000": 98009.424,
+    "rank": 67
+  },
+  {
+    "chapter": "65",
+    "name": "Headgear and parts thereof",
+    "imports_b": 0.275273,
+    "exports_b": 0.054991,
+    "balance_b": -0.220282,
+    "revenue_000": 89829.788,
+    "rank": 68
+  },
+  {
+    "chapter": "37",
+    "name": "Photographic or cinematographic goods",
+    "imports_b": 0.29163,
+    "exports_b": 0.0,
+    "balance_b": -0.29163,
+    "revenue_000": 50668.713,
+    "rank": 69
+  },
+  {
+    "chapter": "58",
+    "name": "Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",
+    "imports_b": 0.287029,
+    "exports_b": 0.000192,
+    "balance_b": -0.286837,
+    "revenue_000": 81221.314,
+    "rank": 70
+  },
+  {
+    "chapter": "92",
+    "name": "Musical instruments; parts and accessories of such articles",
+    "imports_b": 0.079653,
+    "exports_b": 0.185944,
+    "balance_b": 0.106291,
+    "revenue_000": 23242.23,
+    "rank": 71
+  },
+  {
+    "chapter": "03",
+    "name": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "imports_b": 0.239611,
+    "exports_b": 0.0,
+    "balance_b": -0.239611,
+    "revenue_000": 55413.189,
+    "rank": 72
+  },
+  {
+    "chapter": "13",
+    "name": "Lac; gums, resins and other vegetable saps and extracts",
+    "imports_b": 0.099994,
+    "exports_b": 0.132097,
+    "balance_b": 0.032103,
+    "revenue_000": 23151.1,
+    "rank": 73
+  },
+  {
+    "chapter": "78",
+    "name": "Lead and articles thereof",
+    "imports_b": 0.023252,
+    "exports_b": 0.153143,
+    "balance_b": 0.129891,
+    "revenue_000": 4443.684,
+    "rank": 74
+  },
+  {
+    "chapter": "36",
+    "name": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+    "imports_b": 0.156208,
+    "exports_b": 0.0,
+    "balance_b": -0.156208,
+    "revenue_000": 4322.62,
+    "rank": 75
+  },
+  {
+    "chapter": "93",
+    "name": "Arms and ammunition; parts and accessories thereof",
+    "imports_b": 0.136235,
+    "exports_b": 0.001983,
+    "balance_b": -0.134252,
+    "revenue_000": 111.193,
+    "rank": 76
+  },
+  {
+    "chapter": "47",
+    "name": "Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard",
+    "imports_b": 0.111186,
+    "exports_b": 8e-06,
+    "balance_b": -0.111179,
+    "revenue_000": 13390.326,
+    "rank": 77
+  },
+  {
+    "chapter": "80",
+    "name": "Tin; articles thereof",
+    "imports_b": 0.110771,
+    "exports_b": 0.0,
+    "balance_b": -0.110771,
+    "revenue_000": 27058.871,
+    "rank": 78
+  },
+  {
+    "chapter": "04",
+    "name": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "imports_b": 0.069962,
+    "exports_b": 0.032568,
+    "balance_b": -0.037395,
+    "revenue_000": 18933.303,
+    "rank": 79
+  },
+  {
+    "chapter": "01",
+    "name": "Animals; live",
+    "imports_b": 0.090484,
+    "exports_b": 0.007347,
+    "balance_b": -0.083137,
+    "revenue_000": 709.322,
+    "rank": 80
+  },
+  {
+    "chapter": "41",
+    "name": "Raw hides and skins (other than furskins) and leather",
+    "imports_b": 0.020183,
+    "exports_b": 0.07611,
+    "balance_b": 0.055926,
+    "revenue_000": 3070.684,
+    "rank": 81
+  },
+  {
+    "chapter": "50",
+    "name": "Silk",
+    "imports_b": 0.064179,
+    "exports_b": 0.0,
+    "balance_b": -0.064179,
+    "revenue_000": 6630.266,
+    "rank": 82
+  },
+  {
+    "chapter": "06",
+    "name": "Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "imports_b": 0.058336,
+    "exports_b": 0.000174,
+    "balance_b": -0.058162,
+    "revenue_000": 1231.569,
+    "rank": 83
+  },
+  {
+    "chapter": "97",
+    "name": "Works of art; collectors' pieces and antiques",
+    "imports_b": 0.000592,
+    "exports_b": 0.051691,
+    "balance_b": 0.051098,
+    "revenue_000": 103.802,
+    "rank": 84
+  },
+  {
+    "chapter": "16",
+    "name": "Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",
+    "imports_b": 0.045838,
+    "exports_b": 0.0,
+    "balance_b": -0.045838,
+    "revenue_000": 22222.024,
+    "rank": 85
+  },
+  {
+    "chapter": "67",
+    "name": "Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",
+    "imports_b": 0.02249,
+    "exports_b": 0.019176,
+    "balance_b": -0.003314,
+    "revenue_000": 4463.61,
+    "rank": 86
+  },
+  {
+    "chapter": "66",
+    "name": "Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",
+    "imports_b": 0.040044,
+    "exports_b": 0.0,
+    "balance_b": -0.040044,
+    "revenue_000": 12260.636,
+    "rank": 87
+  },
+  {
+    "chapter": "05",
+    "name": "Animal originated products; not elsewhere specified or included",
+    "imports_b": 0.01823,
+    "exports_b": 0.002291,
+    "balance_b": -0.015939,
+    "revenue_000": 3336.846,
+    "rank": 88
+  },
+  {
+    "chapter": "81",
+    "name": "Metals; n.e.c., cermets and articles thereof",
+    "imports_b": 0.01081,
+    "exports_b": 0.0,
+    "balance_b": -0.01081,
+    "revenue_000": 1433.078,
+    "rank": 89
+  },
+  {
+    "chapter": "86",
+    "name": "Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
+    "imports_b": 0.007581,
+    "exports_b": 0.0,
+    "balance_b": -0.007581,
+    "revenue_000": 2270.809,
+    "rank": 90
+  },
+  {
+    "chapter": "75",
+    "name": "Nickel and articles thereof",
+    "imports_b": 0.006204,
+    "exports_b": 0.0,
+    "balance_b": -0.006204,
+    "revenue_000": 1572.761,
+    "rank": 91
+  },
+  {
+    "chapter": "02",
+    "name": "Meat and edible meat offal",
+    "imports_b": 0.003235,
+    "exports_b": 0.000812,
+    "balance_b": -0.002423,
+    "revenue_000": 786.198,
+    "rank": 92
+  },
+  {
+    "chapter": "89",
+    "name": "Ships, boats and floating structures",
+    "imports_b": 0.002677,
+    "exports_b": 0.0,
+    "balance_b": -0.002677,
+    "revenue_000": 619.952,
+    "rank": 93
+  },
+  {
+    "chapter": "46",
+    "name": "Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",
+    "imports_b": 0.001511,
+    "exports_b": 0.000228,
+    "balance_b": -0.001283,
+    "revenue_000": 358.065,
+    "rank": 94
+  },
+  {
+    "chapter": "45",
+    "name": "Cork and articles of cork",
+    "imports_b": 0.000598,
+    "exports_b": 0.0,
+    "balance_b": -0.000598,
+    "revenue_000": 168.098,
+    "rank": 95
+  },
+  {
+    "chapter": "43",
+    "name": "Furskins and artificial fur; manufactures thereof",
+    "imports_b": 0.000143,
+    "exports_b": 0.0,
+    "balance_b": -0.000143,
+    "revenue_000": 3.765,
+    "rank": 96
+  }
+]

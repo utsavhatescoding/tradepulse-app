@@ -1,0 +1,226 @@
+[
+  {
+    "office": "Birgunj",
+    "imports_b": 93.861324,
+    "exports_b": 18.005096,
+    "import_share_pct": 50.074429,
+    "export_share_pct": 46.519813,
+    "rank": 1
+  },
+  {
+    "office": "Biratnagar",
+    "imports_b": 23.439045,
+    "exports_b": 9.622523,
+    "import_share_pct": 12.504584,
+    "export_share_pct": 24.861738,
+    "rank": 2
+  },
+  {
+    "office": "Bhairahawa",
+    "imports_b": 28.985188,
+    "exports_b": 3.586903,
+    "import_share_pct": 15.463417,
+    "export_share_pct": 9.267491,
+    "rank": 3
+  },
+  {
+    "office": "Ti_Airport",
+    "imports_b": 13.648256,
+    "exports_b": 3.551181,
+    "import_share_pct": 7.281259,
+    "export_share_pct": 9.175195,
+    "rank": 4
+  },
+  {
+    "office": "Mechi",
+    "imports_b": 5.762893,
+    "exports_b": 2.871,
+    "import_share_pct": 3.074467,
+    "export_share_pct": 7.417809,
+    "rank": 5
+  },
+  {
+    "office": "Nepalgunj",
+    "imports_b": 6.76314,
+    "exports_b": 0.251139,
+    "import_share_pct": 3.608093,
+    "export_share_pct": 0.648868,
+    "rank": 6
+  },
+  {
+    "office": "Rasuwa",
+    "imports_b": 5.678727,
+    "exports_b": 0.11619,
+    "import_share_pct": 3.029565,
+    "export_share_pct": 0.3002,
+    "rank": 7
+  },
+  {
+    "office": "Krishnanagar",
+    "imports_b": 2.019933,
+    "exports_b": 0.177513,
+    "import_share_pct": 1.077622,
+    "export_share_pct": 0.458642,
+    "rank": 8
+  },
+  {
+    "office": "Kailali",
+    "imports_b": 2.046027,
+    "exports_b": 0.112925,
+    "import_share_pct": 1.091542,
+    "export_share_pct": 0.291766,
+    "rank": 9
+  },
+  {
+    "office": "Chobhar",
+    "imports_b": 1.46712,
+    "exports_b": 0.020331,
+    "import_share_pct": 0.7827,
+    "export_share_pct": 0.052529,
+    "rank": 10
+  },
+  {
+    "office": "Jaleshwor",
+    "imports_b": 0.759434,
+    "exports_b": 0.348367,
+    "import_share_pct": 0.405153,
+    "export_share_pct": 0.900077,
+    "rank": 11
+  },
+  {
+    "office": "Suthauli",
+    "imports_b": 1.064566,
+    "exports_b": 0.0,
+    "import_share_pct": 0.567939,
+    "export_share_pct": 0.0,
+    "rank": 12
+  },
+  {
+    "office": "Mustang",
+    "imports_b": 0.588786,
+    "exports_b": 0.0,
+    "import_share_pct": 0.314114,
+    "export_share_pct": 0.0,
+    "rank": 13
+  },
+  {
+    "office": "Sarlahi",
+    "imports_b": 0.243999,
+    "exports_b": 0.010178,
+    "import_share_pct": 0.130172,
+    "export_share_pct": 0.026297,
+    "rank": 14
+  },
+  {
+    "office": "Brt06",
+    "imports_b": 0.227735,
+    "exports_b": 0.0,
+    "import_share_pct": 0.121495,
+    "export_share_pct": 0.0,
+    "rank": 15
+  },
+  {
+    "office": "Kanchanpur",
+    "imports_b": 0.184963,
+    "exports_b": 0.000279,
+    "import_share_pct": 0.098677,
+    "export_share_pct": 0.000721,
+    "rank": 16
+  },
+  {
+    "office": "Janakpur",
+    "imports_b": 0.159778,
+    "exports_b": 0.0,
+    "import_share_pct": 0.085241,
+    "export_share_pct": 0.0,
+    "rank": 17
+  },
+  {
+    "office": "Gaur",
+    "imports_b": 0.127406,
+    "exports_b": 0.009464,
+    "import_share_pct": 0.06797,
+    "export_share_pct": 0.024453,
+    "rank": 18
+  },
+  {
+    "office": "Tatopani",
+    "imports_b": 0.13461,
+    "exports_b": 0.0,
+    "import_share_pct": 0.071814,
+    "export_share_pct": 0.0,
+    "rank": 19
+  },
+  {
+    "office": "Sunsari",
+    "imports_b": 0.116248,
+    "exports_b": 0.0,
+    "import_share_pct": 0.062018,
+    "export_share_pct": 0.0,
+    "rank": 20
+  },
+  {
+    "office": "Maheshpaur",
+    "imports_b": 0.064598,
+    "exports_b": 0.0,
+    "import_share_pct": 0.034462,
+    "export_share_pct": 0.0,
+    "rank": 21
+  },
+  {
+    "office": "Bhadrapur",
+    "imports_b": 0.040287,
+    "exports_b": 0.0,
+    "import_share_pct": 0.021493,
+    "export_share_pct": 0.0,
+    "rank": 22
+  },
+  {
+    "office": "Sati",
+    "imports_b": 0.026736,
+    "exports_b": 0.0,
+    "import_share_pct": 0.014264,
+    "export_share_pct": 0.0,
+    "rank": 23
+  },
+  {
+    "office": "Siraha",
+    "imports_b": 0.026258,
+    "exports_b": 0.0,
+    "import_share_pct": 0.014008,
+    "export_share_pct": 0.0,
+    "rank": 24
+  },
+  {
+    "office": "Pashupatinagar",
+    "imports_b": 0.000273,
+    "exports_b": 0.021056,
+    "import_share_pct": 0.000146,
+    "export_share_pct": 0.054402,
+    "rank": 25
+  },
+  {
+    "office": "Rajbiraj",
+    "imports_b": 0.006065,
+    "exports_b": 0.0,
+    "import_share_pct": 0.003236,
+    "export_share_pct": 0.0,
+    "rank": 26
+  },
+  {
+    "office": "Thadhi",
+    "imports_b": 0.000207,
+    "exports_b": 0.0,
+    "import_share_pct": 0.00011,
+    "export_share_pct": 0.0,
+    "rank": 27
+  },
+  {
+    "office": "Triveni",
+    "imports_b": 1.9e-05,
+    "exports_b": 0.0,
+    "import_share_pct": 1e-05,
+    "export_share_pct": 0.0,
+    "rank": 28
+  }
+]

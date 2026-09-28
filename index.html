@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f3f0e9" />
+  <meta name="description" content="TradePulse Nepal — a live, fast public intelligence interface for Nepal foreign trade data." />
+  <title>TradePulse Nepal — Live Trade Intelligence</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="assets/app.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="brand" href="#overview" aria-label="TradePulse Nepal home">
+          <span class="brand-mark">TP</span>
+          <span class="brand-copy">
+            <strong>TradePulse Nepal</strong>
+            <small>Foreign trade intelligence</small>
+          </span>
+        </a>
+
+        <nav class="desktop-nav" aria-label="Primary">
+          <a href="#overview" data-nav="overview">Overview</a>
+          <a href="#explore" data-nav="explore">Explore</a>
+          <a href="#trends" data-nav="trends">Trends</a>
+          <a href="#intelligence" data-nav="intelligence">Intelligence</a>
+          <a href="#ask" data-nav="ask">Ask TradePulse</a>
+        </nav>
+
+        <div class="release-controls" aria-label="Reporting period">
+          <label>
+            <span>FY</span>
+            <select id="fy-select" aria-label="Fiscal year"></select>
+          </label>
+          <label>
+            <span>Release</span>
+            <select id="release-select" aria-label="Release"></select>
+          </label>
+          <a class="site-link" href="https://tradepulsenepal.com" target="_blank" rel="noopener">Main site ↗</a>
+        </div>
+      </div>
+      <div class="ticker">
+        <div class="ticker-inner">
+          <span><i class="live-dot"></i><b>Latest release:</b> <span id="ticker-period">Bhadra · FY 2083/84</span></span>
+          <span>Imports <b id="ticker-imports">Rs 401.52B</b></span>
+          <span>Exports <b id="ticker-exports">Rs 76.59B</b></span>
+          <span>Deficit <b id="ticker-deficit">Rs 324.93B</b></span>
+          <span>Import/export <b id="ticker-ratio">5.24×</b></span>
+          <span class="ticker-source">Department of Customs · processed by TradePulse Nepal</span>
+        </div>
+      </div>
+    </header>
+
+    <main id="main" class="main-content" tabindex="-1">
+      <div id="view-root" class="view-root" aria-live="polite"></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div>
+          <strong>TradePulse Nepal</strong>
+          <p>An independent public-data interface for exploring Nepal's foreign trade. Based on Department of Customs workbooks; not an official government publication.</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://tradepulsenepal.com" target="_blank" rel="noopener">TradePulse Nepal ↗</a>
+          <a href="https://tradepulsenepal.com/nepal-trade-data-download.html" target="_blank" rel="noopener">Downloads ↗</a>
+          <button type="button" id="open-methodology">Data &amp; methodology</button>
+        </div>
+      </div>
+    </footer>
+
+    <nav class="mobile-nav" aria-label="Mobile navigation">
+      <a href="#overview" data-nav="overview"><span>◫</span>Overview</a>
+      <a href="#explore" data-nav="explore"><span>⌕</span>Explore</a>
+      <a href="#trends" data-nav="trends"><span>↗</span>Trends</a>
+      <a href="#intelligence" data-nav="intelligence"><span>◇</span>Signals</a>
+      <a href="#ask" data-nav="ask"><span>✦</span>Ask</a>
+    </nav>
+  </div>
+
+  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+  <aside id="detail-drawer" class="detail-drawer" aria-hidden="true" aria-label="Detail panel">
+    <div class="drawer-head">
+      <div>
+        <span id="drawer-eyebrow" class="eyebrow">Detail</span>
+        <h2 id="drawer-title">Detail</h2>
+      </div>
+      <button id="drawer-close" class="icon-button" type="button" aria-label="Close detail panel">×</button>
+    </div>
+    <div id="drawer-body" class="drawer-body"></div>
+  </aside>
+
+  <dialog id="methodology-dialog" class="methodology-dialog">
+    <div class="dialog-head">
+      <div>
+        <span class="eyebrow">Trust layer</span>
+        <h2>Data &amp; methodology</h2>
+      </div>
+      <button type="button" class="icon-button" id="close-methodology" aria-label="Close">×</button>
+    </div>
+    <div class="dialog-body">
+      <div class="method-grid">
+        <div><span>Primary source</span><strong>Department of Customs, Government of Nepal</strong></div>
+        <div><span>Current release</span><strong id="method-period">—</strong></div>
+        <div><span>Release type</span><strong>Cumulative fiscal-year workbook</strong></div>
+        <div><span>Presentation unit</span><strong>Rs billion</strong></div>
+      </div>
+      <h3>How monthly movement is calculated</h3>
+      <p>Department of Customs releases are cumulative within the fiscal year. TradePulse preserves the official cumulative values and derives a single month by subtracting the previous cumulative release from the latest one.</p>
+      <h3>What TradePulse changes</h3>
+      <p>TradePulse restructures official tables for analysis, adds unit conversions, ranks products and partners, and computes transparent descriptive signals. It does not replace the source workbook.</p>
+      <p class="dialog-note">For formal or legal use, verify figures against the original Department of Customs release.</p>
+    </div>
+  </dialog>
+
+  <template id="loading-template">
+    <section class="loading-view">
+      <div class="skeleton skeleton-title"></div>
+      <div class="skeleton-grid">
+        <div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div>
+      </div>
+      <div class="skeleton skeleton-panel"></div>
+    </section>
+  </template>
+
+  <noscript>
+    <div class="noscript">TradePulse requires JavaScript to run the interactive dashboard.</div>
+  </noscript>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

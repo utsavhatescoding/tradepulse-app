@@ -1,0 +1,49 @@
+[
+  {
+    "id": "export-concentration",
+    "type": "product",
+    "severity": "high",
+    "eyebrow": "Export concentration",
+    "title": "Soybean oil dominates the export mix",
+    "metric": "46.5%",
+    "detail": "Soya-bean oil (excl. crude) and fractions accounted for about 46.5% of Shrawan exports.",
+    "evidence": [
+      "Top export Rs 17.99B",
+      "Total exports Rs 38.70B"
+    ],
+    "link": "https://tradepulsenepal.com/shrawan-2083-84-trade-report.html"
+  },
+  {
+    "id": "india-concentration",
+    "type": "country",
+    "severity": "medium",
+    "eyebrow": "Partner concentration",
+    "title": "India dominates Nepal’s export destination mix",
+    "metric": "85.9%",
+    "detail": "India received about 85.9% of Shrawan exports and supplied 54.7% of imports.",
+    "evidence": [],
+    "link": "https://tradepulsenepal.com/shrawan-2083-84-trade-report.html"
+  },
+  {
+    "id": "route-concentration",
+    "type": "route",
+    "severity": "medium",
+    "eyebrow": "Route concentration",
+    "title": "Birgunj handles about half of imports",
+    "metric": "50.1%",
+    "detail": "Birgunj Customs handled Rs 93.86B of imports in Shrawan.",
+    "evidence": [],
+    "link": "https://tradepulsenepal.com/shrawan-2083-84-trade-report.html"
+  },
+  {
+    "id": "imbalance",
+    "type": "balance",
+    "severity": "info",
+    "eyebrow": "Trade balance",
+    "title": "Imports remain far larger than exports",
+    "metric": "4.84×",
+    "detail": "Nepal imported Rs 187.44B against Rs 38.70B of exports in Shrawan.",
+    "evidence": [],
+    "link": "https://tradepulsenepal.com/shrawan-2083-84-trade-report.html"
+  }
+]

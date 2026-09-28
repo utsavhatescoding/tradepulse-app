@@ -1,0 +1,57 @@
+[
+  {
+    "id": "route-shift",
+    "type": "route",
+    "severity": "high",
+    "eyebrow": "Route shift",
+    "title": "Rasuwa fell as Mustang surged",
+    "metric": "Mustang 13.1×",
+    "detail": "Bhadra-only imports through Rasuwa fell about -60.6%, while Mustang rose from Rs 0.59B to Rs 7.74B.",
+    "evidence": [
+      "Rasuwa · Shrawan Rs 5.68B",
+      "Rasuwa · Bhadra Rs 2.24B",
+      "Mustang · Shrawan Rs 0.59B",
+      "Mustang · Bhadra Rs 7.74B"
+    ],
+    "link": "https://tradepulsenepal.com/bhadra-2083-84-trade-report.html"
+  },
+  {
+    "id": "export-concentration",
+    "type": "product",
+    "severity": "medium",
+    "eyebrow": "Export concentration",
+    "title": "Processed soybean oil drives nearly half of exports",
+    "metric": "47.1%",
+    "detail": "Soya-bean oil (excl. crude) and fractions contributed Rs 36.05B, about 47.1% of cumulative exports through Bhadra.",
+    "evidence": [
+      "Exports Rs 76.59B",
+      "Top product Rs 36.05B"
+    ],
+    "link": "https://tradepulsenepal.com/bhadra-2083-84-trade-report.html"
+  },
+  {
+    "id": "monthly-pressure",
+    "type": "balance",
+    "severity": "medium",
+    "eyebrow": "Monthly pressure",
+    "title": "Bhadra became more import-heavy",
+    "metric": "Deficit +18.5%",
+    "detail": "Bhadra-only imports rose 14.2% from Shrawan while exports changed -2.1%, widening the monthly deficit to Rs 176.19B.",
+    "evidence": [
+      "Bhadra imports Rs 214.08B",
+      "Bhadra exports Rs 37.88B"
+    ],
+    "link": "https://tradepulsenepal.com/bhadra-2083-84-trade-report.html"
+  },
+  {
+    "id": "india-concentration",
+    "type": "country",
+    "severity": "info",
+    "eyebrow": "Partner concentration",
+    "title": "India remains Nepal’s dominant trade partner",
+    "metric": "85% of exports",
+    "detail": "India accounts for roughly 55% of cumulative imports and 85% of cumulative exports through Bhadra.",
+    "evidence": [],
+    "link": "https://tradepulsenepal.com/bhadra-2083-84-trade-report.html"
+  }
+]
